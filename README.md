@@ -21,4 +21,5 @@ To install skimage for Python.
 Install nltk, spacy and wordcloud.
 
 Install NLTK using: https://www.nltk.org/install.html
+
 For wordcloud do pip install wordcloud or conda install -c conda-forge wordcloud
